@@ -4,7 +4,7 @@ Our team has implemented a bidirectional LSTM model to learn the mapping of an E
 
 - Dataset: We have scraped wikipedia for famous people's names and their corresponding IPA. we were  able to access a relevant data set known as CSLU: Spelled and Spoken Words", which was provided by the University of Pennsylvania's Linguistic Data Consortium. Published in 2006, the data set consists of recorded phone interviews of 3647 people.
 
-- Model: Bidirection LSTM model, Encoder-Decoder Schema, and 2-letter bigram encoding
+- Model: Bidirection LSTM model, Encoder-Decoder Schema, and 2-letter bigram encoding (built using Keras library)
 
 - Result: 
 
