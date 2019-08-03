@@ -7,3 +7,5 @@ Our team has implemented a bidirectional LSTM model to learn the mapping of an E
 - Model: Bidirection LSTM model, Encoder-Decoder Schema, and 2-letter bigram encoding
 
 - Result: 
+
+![results](https://github.com/jangj8523/cs221-project/blob/master/ipa%20translation%20result.png)
